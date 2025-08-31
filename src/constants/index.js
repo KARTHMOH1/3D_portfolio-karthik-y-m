@@ -26,6 +26,7 @@ import {
     weather,
     udemy,
     greenden,
+    threejs,
 } from "../assets/icons";
 
 export const skills = [
@@ -95,6 +96,11 @@ export const skills = [
     {
         imageUrl: nextjs,
         name: "Next.js",
+        type: "Frontend",
+    },
+    {
+        imageUrl: threejs,
+        name: "Three Js",
         type: "Frontend",
     },
     {

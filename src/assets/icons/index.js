@@ -28,7 +28,7 @@ import vscode from './vscode.svg'
 import vercel from './vercel.svg'
 import soundon from './soundon.png'
 import soundoff from './soundoff.png'
-
+import threejs from './three js.svg'
 
 
 export {
@@ -61,5 +61,6 @@ export {
     vscode,
     vercel,
     soundon,
-    soundoff,    
+    soundoff,
+    threejs,    
 }
